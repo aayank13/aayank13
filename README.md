@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayan</h1>
-<h3 align="center">An Entrepreneur and MERN Stack developer.</h3>
+<h3 align="center">Full Stack Developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/aayan_k14" target="blank"><img src="https://img.shields.io/twitter/follow/aayan_k14?logo=twitter&style=for-the-badge" alt="aayan_k14" /></a> </p>
 
