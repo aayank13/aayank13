@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayank13&label=Profile%20views&color=0e75b6&style=flat" alt="aayank13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayank13" alt="aayank13" /></a> </p>
-
 - 🔭 I’m currently working on **@LearnExpo**
 
 - 🌱 I’m currently learning **WEB 3.0**
@@ -20,6 +18,5 @@
 <a href="https://www.linkedin.com/in/aayank13" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/linkedin-logo_578229-227.jpg" alt="aayank_13" height="30" width="auto" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayank13&" alt="aayank13" /></p>
 
 
