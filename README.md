@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **@LearnExpo**
 
-- 🌱 I’m currently learning **WEB 3.0**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **aayank1306@gmail.com**
 
