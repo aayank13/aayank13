@@ -1,22 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aayan</h1>
-<h3 align="center">A Developer!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayank13&label=Profile%20views&color=0e75b6&style=flat" alt="aayank13" /> </p>
-
-- 🔭 I’m currently working on **[@ML4E](https://github.com/aayank13/ml4e)**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **aayank1306@gmail.com**
-
-- ⚡ Fun fact **I can also sing.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aayan_k14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayan_k14" height="30" width="40" /></a>
-<a href="https://instagram.com/aayank_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayank_13" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aayank13" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/linkedin-logo_578229-227.jpg" alt="aayank_13" height="30" width="auto" /></a>
-</p>
-
-
-
+<p>I am a software engineer passionate about bridging the gap between systems programming and artificial intelligence — building efficient, scalable, and intelligent systems from the ground up. My work spans backend architecture, frontend engineering, and deep learning research.</p>
+<p>I currently work at a startup where I built a production-grade AI voice agent using Deepgram&apos;s STT and TTS APIs, reducing operational costs by 65% and improving latency by 40%. I focus on architecting reliable backends with <strong> FastAPI</strong> and crafting modern, interactive frontends with <strong> Next.js</strong>, ensuring both performance and seamless user experience.</p>
+<p>At the <strong>Software Development Cell, GGSIPU</strong>, I lead backend development and system design for university-scale platforms used by thousands of students. My work involves designing scalable APIs, managing databases, and deploying secure infrastructure on VPS environments.</p>
+<p>Beyond web systems, I actively explore the intersection of<!-- --> <strong>machine learning</strong>, <strong>deep learning</strong>, and <strong>natural language processing</strong>. I experiment with <strong>large language models</strong>, reinforcement learning, and multimodal architectures, constantly pushing my understanding of how intelligence can emerge from computation.</p>
+<p>I'm deeply passionate about <strong>Rust</strong> and systems programming — fascinated by its blend of performance and safety. I use it to understand how low-level design impacts scalability, performance, and the developer experience itself.</p>
+<p>I love dissecting complex ideas — whether it's a neural architecture or a compiler optimization — and translating them into real, working systems. I continuously share my insights and learning journeys across my website and socials, driven by the belief that engineering is a lifelong process of curiosity and creation.</p>
